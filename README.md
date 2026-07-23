@@ -21,3 +21,4 @@
 ​الوكيل القانوني (Legal Drafter): صياغة الخطابات الرسمية الموجهة للجهات المختصة بأسلوب نظامي ومؤثر.
 
 ​🔗 رابط المنصة التجريبي: [https://gwrvappuyuzxqogogyha9zt.streamlit.app/#mswdt-alkhtab-alrsmy]
+رابط الدرايف : https://drive.google.com/drive/folders/1fe91QUqCLXfwBoyXSsBcnpLons3KPy89?usp=sharing
